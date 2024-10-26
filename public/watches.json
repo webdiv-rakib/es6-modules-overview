@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "brand": "Garmin",
+      "price": 349
+    },
+    {
+      "id": 4,
+      "brand": "Fitbit",
+      "price": 229
+    },
+    {
+      "id": 5,
+      "brand": "Amazfit",
+      "price": 199
+    }
+  ]
+  
