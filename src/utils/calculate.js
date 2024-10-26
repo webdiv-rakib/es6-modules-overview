@@ -5,7 +5,12 @@ const add = (first, second) => {
 const multiply = (first, second) => {
     return first * second;
 }
+
+const divideTheFirstNumberByTheSecondNumber = (first, second) => {
+    return first / second;
+}
 // export default add;
-export { add, multiply };
+export { add, multiply, divideTheFirstNumberByTheSecondNumber };
+
 // const calculator = { add: add }
 // export default calculator;
